@@ -1,6 +1,6 @@
 module take-out
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.9+incompatible
